@@ -1,8 +1,6 @@
 ## Synopsis
 
-This project was created as my final project for Udemy's "The Complete Web Developer in 2018: Zero to Mastery". This Web App serves as Facial Recognition App that can identify a face from any picture added to it. The app was written with React, Node, and Express.
-
-The smart-brain directory contains the front-end of the application and smart-brain-api contains the back-end. 
+This project was created in order to get some experience with React.js. This is simply a demo of a progressive website with styling and multiple components created within React.js. It also features a working search box.
 
 ## Preview
 
